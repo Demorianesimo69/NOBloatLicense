@@ -1,0 +1,47 @@
+            NoBloat LICENSE
+Copyright © 2022 demoristi <https://demorianesimo.org/>
+Version 1.0 August 2022
+
+PREAMBLE
+
+Everyone is permitted to copy and distribute verbatim copies of this license document,
+changing is allowed.
+This License is under the BSD LICENSE.
+The use of this license is limited to software who respect the foss philosophy.
+
+By utilizing this Program in any way, from executing it to modifying the Source Code, You, the licensee,  agree to the terms and conditions.
+
+TERMS AND CONDITION
+
+- This Program is provided "AS IS" and comes with NO WARRANTY, not even in the case of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+- You must distribute the Source Code (to your Derivation) of this Program.
+
+- You may not sell or lease copies of (your Derivation of) this Program without the autorization from the creator.
+
+- You must distribute an unaltered copy of this document along with (your 
+    derivation of) this Program.
+
+- The code must contain a maximum of 2000 lines
+
+- You need to indent your code by following the recommended guidelines for your language
+
+- You can only use languages such as: c,asm, perl, holy c. Or similar, except rust
+
+- You must use only comments for software documentation not README file
+
+- The readme must contain a detailed description, a guide to the installation and use of the software
+
+END OF TERMS AND CONDITION
+
+Add information on how to contact you by electronic mail.
+Insert copyright holders in the format
+Copyright © Year <authors>
+
+The NoBloat License does not permit incorporating your program into proprietary programs.
+If your program is a library, you may permit linking proprietary applications with the library.
+
+The license creators and the software creators don't take responsibility for the use you will make of it.
+
+If you choose to not agree to the terms and conditions above, DO NOT use the 
+Program and destroy any copies of it you might have, INCLUDING this document.
